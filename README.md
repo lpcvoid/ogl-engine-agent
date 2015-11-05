@@ -7,5 +7,4 @@ This is a 3D engine, written in Delphi. It was never meant to be used for games,
 #Show me something cool!
 Here you go, terrain rendering in action:
 
-https://www.youtube.com/watch?v=R7BhThBaydk
-
+[![LOD Terrain rendering](http://img.youtube.com/vi/R7BhThBaydk/0.jpg)](http://www.youtube.com/watch?v=R7BhThBaydk)
